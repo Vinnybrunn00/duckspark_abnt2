@@ -1,9 +1,9 @@
 ## DUCKSPARK ABNT2 💾
-Este projeto é capaz de converter scripts ```.duck``` para scripts Arduino ```.ino``` suportando teclado ABNT2 e compilar no Digispark.
+Este projeto é capaz de converter scripts ```.duck``` para scripts Arduino ```.ino``` suportando teclado ABNT2.
 
 ## INSTALANDO DEPENDÊNCIAS NO WINDOWS
 - Você precisará instalar o [Java](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR) e o [python](https://www.python.org/downloads/).
-- Baixe a IDE do Arduino [aqui](https://www.arduino.cc/en/software), para ser possível compilar o arquivo ```.ino``` gerado.
+- Baixe a IDE do Arduino [aqui](https://www.arduino.cc/en/software).
 
 ## INSTALANDO DEPENDÊNCIAS NO LINUX
 Execute o arquivo ```ìnstall.sh``` pra instalar as dependências.
