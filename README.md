@@ -1,4 +1,4 @@
-## DUCKSPARK ABNT2 💾
+## DUCKSPARK ABNT2 - PORTUGUÊS💾
 Este projeto é capaz de converter scripts ```.duck``` para scripts Arduino ```.ino``` suportando teclado ABNT2.
 
 ## INSTALANDO DEPENDÊNCIAS NO WINDOWS
